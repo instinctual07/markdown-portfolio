@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **Nicest asshole in the world**
+- *Intelligent but less intelligent than I think I am*
